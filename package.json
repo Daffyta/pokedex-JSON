@@ -1,0 +1,29 @@
+{
+  "name": "pokedaf",
+  "version": "1.0.0",
+  "description": "Pokedex creada con fines ilustrativos para aprender JSON",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daffyta/pokedex-JSON.git"
+  },
+  "keywords": [
+    "JSON",
+    "pokemon",
+    "pokedex",
+    "html",
+    "materialize"
+  ],
+  "author": "Daffyta <daffy.dine9@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daffyta/pokedex-JSON/issues"
+  },
+  "homepage": "https://github.com/Daffyta/pokedex-JSON#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
